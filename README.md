@@ -31,7 +31,3 @@ The main goal is to extract the following information from a target website:
 - Python 3.x  
 - requests  
 - BeautifulSoup4  
-
-Installation:
-```bash
-pip install requests beautifulsoup4
